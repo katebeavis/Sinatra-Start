@@ -1,6 +1,6 @@
 # Sinatra Start
 
-Sinatra start was a tutorial I followed to understand how Sinatra works.
+Sinatra Start was a tutorial I followed to understand how Sinatra works.
 
 ### Objectives
 
