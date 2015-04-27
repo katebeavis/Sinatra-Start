@@ -1,6 +1,7 @@
 require 'sinatra'
 
-get '/hello' do
+get '/' do
+  @name = %w(Amigo Oscar Viking).sample
   @visitor = params[:name]
   erb :index
 end
