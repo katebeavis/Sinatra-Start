@@ -2,11 +2,11 @@
 
 Sinatra Start was a tutorial I followed to understand how Sinatra works.
 
-### Objectives
+## Objectives
 
 To get an understanding of Sinatra and servers.
 
-### Technology
+## Technology
 - Ruby
 - Sinatra
 - Shotgun
